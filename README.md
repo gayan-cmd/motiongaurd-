@@ -581,10 +581,3 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ---
 
-<div align="center">
-
-Built with ❤️ for every person who's ever felt sick scrolling through their phone on a winding road.
-
-**[⭐ Star this repo if MotionGuard helped you!](https://github.com/YOUR_USERNAME/MotionGuard)**
-
-</div>
